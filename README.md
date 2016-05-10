@@ -5,4 +5,4 @@ Instant Overlay puts an image in a transparent floating window. Great for overla
 
 Protip: Use transparent PNGs for best results.
 
-Download and install from here using One-Click (I'm really sorry) http://isaacparker.org/InstantOverlay/publish.htm
+Download and install from here using One-Click (I'm really sorry) https://isaacparker.org/InstantOverlay/publish.htm
