@@ -8,7 +8,7 @@ Instant Overlay puts an image in a transparent floating window. Great for overla
 Download and install from here using One-Click (I'm really sorry)
 [https://isaacparker.org/InstantOverlay/publish.htm](https://isaacparker.org/InstantOverlay/publish.htm)
 
-###Infrequently Asked Questions
+### Infrequently Asked Questions
 Q: Why did you write this?
 A: I bought a Windows machine and thought "Hey, C# is fun!"
 
